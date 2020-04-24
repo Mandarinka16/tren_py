@@ -1,0 +1,2 @@
+#
+mnog = {"one", "two", "three"}
